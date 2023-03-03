@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.0b2b58a6.css",
+    "main.js": "/Portfolio/static/js/main.38c8b517.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/sushi.jpg": "/Portfolio/static/media/sushi.94d7b68364d5b9f008de.jpg",
+    "static/media/pokemon.jpg": "/Portfolio/static/media/pokemon.66212427aba5a5a355b5.jpg",
+    "static/media/sass.png": "/Portfolio/static/media/sass.91714f748188b46f4e33.png",
+    "static/media/react.png": "/Portfolio/static/media/react.86c8d9eba03e29814d2a.png",
+    "static/media/nodejs.png": "/Portfolio/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/avatar.png": "/Portfolio/static/media/avatar.63d1e4e606afa8350ca3.png",
+    "static/media/css-3.png": "/Portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/js.png": "/Portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/Portfolio/index.html",
+    "static/media/bem.svg": "/Portfolio/static/media/bem.c45f6f176baec6987c708f7680852f63.svg",
+    "main.0b2b58a6.css.map": "/Portfolio/static/css/main.0b2b58a6.css.map",
+    "main.38c8b517.js.map": "/Portfolio/static/js/main.38c8b517.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b2b58a6.css",
+    "static/js/main.38c8b517.js"
+  ]
+}
