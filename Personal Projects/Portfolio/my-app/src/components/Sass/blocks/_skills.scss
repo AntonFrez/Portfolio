@@ -1,0 +1,64 @@
+.skills {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 20% 0 20%;
+    background: #264743;
+    margin-bottom: -5px;
+    
+
+
+
+    &__item-img {
+        display: flex;
+        justify-content: center;
+    }
+
+    .title {
+        display: flex;
+        justify-content: center;
+    }
+
+    .container {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(220px, auto));
+        grid-gap: 1.7rem;
+        align-items: center;
+        margin-top: 5rem;
+        margin-top: 0;
+    }
+
+    img {
+        width: 100px;
+    }
+
+    h3 {
+        font-size: 20px;
+        color: #ef6224;
+        letter-spacing: 0.5px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    h2 {
+        color: #ef6224;
+    }
+
+    P {
+        color: #ef6224;
+    }
+}
+
+.wave-top-projects svg {
+    position: relative;
+    bottom: -5px;
+    background: #264743 ;
+}
+
+.wave-top-skills {
+    margin-bottom: -5px;
+}
+svg{
+    position: relative;
+
+}
