@@ -5,7 +5,6 @@ import About from './components/UI/About';
 import Skills from './components/UI/Skills';
 import Project from './components/UI/Projects';
 import Contacts from './components/UI/Contacts';
-import Navbar from './components/UI/Navbar';
 
 const PortfolioApp = () => {
 

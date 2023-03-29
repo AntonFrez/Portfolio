@@ -5,6 +5,7 @@
     padding: 100px 20%;
 
    li {
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -20,6 +21,10 @@
 
     a {
         text-decoration: none;
+    }
+
+    h2 {
+        font-weight: bold;
     }
 
     span {
